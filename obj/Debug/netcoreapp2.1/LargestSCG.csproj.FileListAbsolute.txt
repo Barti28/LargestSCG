@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\LargestSCG\bin\Debug\netcoreapp2.1\LargestSCG.deps.json
+C:\Users\User\source\repos\LargestSCG\bin\Debug\netcoreapp2.1\LargestSCG.runtimeconfig.json
+C:\Users\User\source\repos\LargestSCG\bin\Debug\netcoreapp2.1\LargestSCG.runtimeconfig.dev.json
+C:\Users\User\source\repos\LargestSCG\bin\Debug\netcoreapp2.1\LargestSCG.dll
+C:\Users\User\source\repos\LargestSCG\bin\Debug\netcoreapp2.1\LargestSCG.pdb
+C:\Users\User\source\repos\LargestSCG\obj\Debug\netcoreapp2.1\LargestSCG.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LargestSCG\obj\Debug\netcoreapp2.1\LargestSCG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LargestSCG\obj\Debug\netcoreapp2.1\LargestSCG.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LargestSCG\obj\Debug\netcoreapp2.1\LargestSCG.AssemblyInfo.cs
+C:\Users\User\source\repos\LargestSCG\obj\Debug\netcoreapp2.1\LargestSCG.dll
+C:\Users\User\source\repos\LargestSCG\obj\Debug\netcoreapp2.1\LargestSCG.pdb
