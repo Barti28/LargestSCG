@@ -1,0 +1,11 @@
+The language I  have made this algorithm is C# and editor Visual Studio. It is a windows console application.
+
+The exercise for the problem:
+Given a vector of positive and negative integers, write a program that finds the
+continous sequence with maximal sum and prints out start index, end index and
+the sum.
+Example:
+For vector 12, -34, 40, 6, -10, 56, 12, -1, -15, 10, 4 start index is 2, end index 6 and the
+sum 104.
+
+The vector given for test in app is the vector below.
