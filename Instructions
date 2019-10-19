@@ -9,4 +9,4 @@ For vector 12, -34, 40, 6, -10, 56, 12, -1, -15, 10, 4 start index is 2, end ind
 sum 104.
 
 The vector given for test in app is the vector below.
-The worst case will be if any charachter of vector is with negative numbers in it. So a fast solution will be, making variable int max=0; not int minValue, and we make also a condition with if (start==0 && end==0){Console.WriteLine("There is no max sum in it");}. If this is not allowed I will let int with minValue and the algorithm will find the max of negatives. You can read about these:https://en.wikipedia.org/wiki/Maximum_subarray_problem 
+The worst case will be if each charachter of vector is negative number. So a fast solution will be, making variable int max=0; not int minValue, and we make also a condition with if (start==0 && end==0){Console.WriteLine("There is no max sum in it");}. If this is not allowed I will let int with minValue and the algorithm will find the max of negatives. You can read about these:https://en.wikipedia.org/wiki/Maximum_subarray_problem 
